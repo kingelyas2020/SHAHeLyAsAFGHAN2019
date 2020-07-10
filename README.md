@@ -20,8 +20,7 @@
 # SocialSploit 
 ![Screenshot_20191114-181630_Termux~01](https://user-images.githubusercontent.com/46208706/68985817-f8693500-07de-11ea-8a64-592468ed1440.jpg)
 # Mi redes sociales
-    YouTube  : http://youtube.com/c/CésarHackGray_Y_Miickeyy
-    Telegram : https://t.me/CesarGray
-    Facebook : Cesar Hack Gray
-    Mi web   : https://www.CesarHackGray.com 
+    Telegram : https://t.me/ afghackerelyas
+    Facebook : شاه الیاس
+ 
 # Disfruta -> SocialSploit by @CesarHackGray
